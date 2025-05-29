@@ -28,6 +28,10 @@
 		{
 			"Name": "N10XSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
 		}
 	]
 }
